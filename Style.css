@@ -1,0 +1,65 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+.heading_containers{
+    background-image: url(Images/background4.jpg);
+    height:250vh;
+    width: 210vh;
+    background-size: cover;
+   
+}
+.heading_containers_text{
+    font-family: serif;
+    color: aliceblue;
+    padding: 25px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 55px;
+}
+.heading_containers_text a{
+    text-decoration: none;
+    color: lightskyblue;
+    
+}
+.heading_containers_card_container{
+    background-color: lightskyblue;
+    border-radius: 25px;
+    padding: 10px;
+    margin-top:55px ;
+}
+.heading_containers_card_container_heading{
+    font-size: 6vh;
+    padding: 25px;
+    font-family: serif;
+
+}
+.heading_containers_card_container_paragraph{
+    font-size: 4vh;
+    padding-left: 25px;
+    padding-right: 50px;
+
+}
+.image_card{
+    height: 300px;
+    width: 250px;
+    padding-left: 25px;
+    border-radius: 25px;
+}
+.image_card_Hi_nana{
+    height: 300px;
+    width: 250px;
+    border-radius: 25px;
+
+}
+.image_card_rrr{
+    height: 300px;
+    width: 250px;
+    border-radius: 25px;
+}
+.audio{
+    background-color: lightskyblue;
+    margin-left: 25px;
+}
